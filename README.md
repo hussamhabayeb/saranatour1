@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm hussam</h1>
-<h3 align="center">a passionate developer who's always eager to learn new things!</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-**Feel free to connect with me on Linked in:** <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussamhabayeb&show_icons=true&locale=en&layout=compact" alt="hussamhabayeb" /></p>
 
-<a href="https://www.linkedin.com/in/saranatour/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussamhabayeb&show_icons=true&locale=en" alt="hussamhabayeb" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saralocalgit&label=Profile%20views&color=0e75b6&style=flat" alt="saralocalgit" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussamhabayeb&" alt="hussamhabayeb" /></p>
+
 
 
 
